@@ -37,12 +37,7 @@ function Home() {
           >
             Download Resume
           </a>
-          <a
-            href="mailto:rishipatil@example.com" // Update your email
-            className="bg-transparent border border-purple-600 hover:bg-purple-600 hover:text-white transition-colors duration-300 text-purple-600 font-semibold py-3 px-6 rounded-md shadow-md"
-          >
-            Contact Me
-          </a>
+          
         </div>
 
         {/* Social Media Icons */}
