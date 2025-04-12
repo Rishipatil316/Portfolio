@@ -15,7 +15,7 @@ function Projects() {
         "A personal portfolio website to showcase my projects and skills.",
       tech: ["React", "Tailwind CSS"],
       image: "/images/de.png", 
-      link : "",
+      link : "https://portfolio-delta-smoky-58.vercel.app/",
     },
   ];
 
